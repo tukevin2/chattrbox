@@ -9,7 +9,7 @@ Completed HW6 chattrbox, working.
 # Terminal #2
 	npm run dev
 
-Login with:
+# Login with:
 
 	diana.prince@bignerdranch.com
 
